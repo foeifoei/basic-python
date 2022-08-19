@@ -1,2 +1,2 @@
-# basic-python-course1
-course python
+# basic-python-1
+c python
